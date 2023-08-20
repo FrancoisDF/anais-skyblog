@@ -1,5 +1,5 @@
 ---
-title: [16] Dernier article avt une mini quarantaine, parce que j'écris bcp de merdes en c'moment...(enfin je trouve)
+title: 16 - Dernier article avt une mini quarantaine, parce que j'écris bcp de merdes en c'moment...(enfin je trouve)
 date: 2006-10-10
 ---
 

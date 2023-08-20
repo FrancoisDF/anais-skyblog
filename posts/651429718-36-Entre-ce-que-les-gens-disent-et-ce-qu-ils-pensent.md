@@ -1,5 +1,5 @@
 ---
-title: [36] Entre ce que les gens disent et ce qu'ils pensent...
+title: 36 - Entre ce que les gens disent et ce qu'ils pensent...
 date: 2006-12-08
 ---
 

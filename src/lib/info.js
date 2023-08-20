@@ -10,7 +10,6 @@ export const lastName = 'Dice'
 export const name = `${firstName} ${lastName}`
 
 // Used for the landing page & footer of posts
-export const avatar = './static/avatar.jpg'
 export const bio = `\
 In Ninis Van S***** we trust.
 "Un escalier de fer, un couloir étroit et obscur...au fond de ce couloir une porte entr'ouverte, d'où nous parviennent les accords d'une musique, qui en ce lieu paraît irréelle..."

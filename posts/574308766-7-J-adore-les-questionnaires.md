@@ -1,5 +1,5 @@
 ---
-title: [7] J'adore les questionnaires. 😊
+title: 7 - J'adore les questionnaires. 😊
 date: 2006-09-11
 ---
 

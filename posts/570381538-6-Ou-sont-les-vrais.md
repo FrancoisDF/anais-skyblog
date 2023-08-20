@@ -1,5 +1,5 @@
 ---
-title: [6] Où sont les vrais ??!
+title: 6 - Où sont les vrais ??!
 date: 2006-09-06
 ---
 

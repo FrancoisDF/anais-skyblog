@@ -1,5 +1,5 @@
 ---
-title: [9] Riders on the stormmmm
+title: 9 - Riders on the stormmmm
 date: 2006-09-21
 ---
 

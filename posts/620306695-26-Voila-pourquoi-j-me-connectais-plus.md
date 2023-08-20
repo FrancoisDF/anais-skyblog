@@ -1,5 +1,5 @@
 ---
-title: [26] Voilà pourquoi j'me connectais plus ;)
+title: 26 - Voilà pourquoi j'me connectais plus ;)
 date: 2006-11-03
 ---
 

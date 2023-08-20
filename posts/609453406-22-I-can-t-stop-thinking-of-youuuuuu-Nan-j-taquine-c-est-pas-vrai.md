@@ -1,5 +1,5 @@
 ---
-title: [22] I can't stop thinking of youuuuuu. Nan j'taquine c'est pas vrai.
+title: 22 - I can't stop thinking of youuuuuu. Nan j'taquine c'est pas vrai.
 date: 2006-10-24
 ---
 

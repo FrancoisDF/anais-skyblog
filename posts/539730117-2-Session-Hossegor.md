@@ -1,5 +1,5 @@
 ---
-title: [2] Session Hossegor
+title: Session Hossegor
 date: 2006-08-04
 ---
 

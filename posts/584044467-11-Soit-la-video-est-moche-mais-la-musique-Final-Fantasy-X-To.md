@@ -1,5 +1,5 @@
 ---
-title: [11] Soit, la video est moche, mais la musique... [ Final Fantasy X - To Zanarkand (que de souvenirs) ]
+title: 11 - Soit, la video est moche, mais la musique... [ Final Fantasy X - To Zanarkand (que de souvenirs) ]
 date: 2006-09-24
 ---
 

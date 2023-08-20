@@ -1,5 +1,5 @@
 ---
-title: [5] Fallait l'remettre... Cherche pas.
+title: Fallait l'remettre... Cherche pas.
 date: 2006-08-31
 ---
 

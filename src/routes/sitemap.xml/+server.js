@@ -42,9 +42,9 @@ export async function GET({ setHeaders }) {
             <loc>${getPostUrl(post.slug)}</loc>
             <lastmod
               >${
-                post.updated
-                  ? new Date(post.updated).toISOString()
-                  : new Date(post.date).toISOString()
+                post.date
+                  ? new Date(post.date).toISOString()
+                  : ''
               }</lastmod
             >
             <changefreq>monthly</changefreq>

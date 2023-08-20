@@ -1,5 +1,5 @@
 ---
-title: [19] Le coeur a ses raisons que la raison ignore.
+title: 19 - Le coeur a ses raisons que la raison ignore.
 date: 2006-10-19
 ---
 

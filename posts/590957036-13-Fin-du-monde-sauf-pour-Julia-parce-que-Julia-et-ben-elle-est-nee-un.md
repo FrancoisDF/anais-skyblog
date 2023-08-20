@@ -1,5 +1,5 @@
 ---
-title: [13] = Fin du monde. (sauf pour Julia, parce que Julia et ben elle est née un 13 janvier alors faut pas dire ça sinon Julia elle boude)
+title: 13 - = Fin du monde. (sauf pour Julia, parce que Julia et ben elle est née un 13 janvier alors faut pas dire ça sinon Julia elle boude)
 date: 2006-10-02
 ---
 

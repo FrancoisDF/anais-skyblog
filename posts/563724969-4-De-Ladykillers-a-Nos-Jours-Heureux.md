@@ -1,5 +1,5 @@
 ---
-title: [4] De Ladykillers à Nos Jours Heureux.
+title: De Ladykillers à Nos Jours Heureux.
 date: 2006-08-31
 ---
 
