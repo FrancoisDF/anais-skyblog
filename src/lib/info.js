@@ -5,23 +5,27 @@
 // URL of your website
 export const website = 'https://sveltekit-blog-template.vercel.app'
 
-export const firstName = 'Jordan'
-export const lastName = 'Doe'
+export const firstName = 'Magic'
+export const lastName = 'Dice'
 export const name = `${firstName} ${lastName}`
 
 // Used for the landing page & footer of posts
-export const avatar = 'https://picsum.photos/id/203/250/250'
+export const avatar = './static/avatar.jpg'
 export const bio = `\
-I’m ${firstName}, a software engineer based in Canada. Lorem ipsum dolor sit amet, consectetur
-adipiscing elit. Phasellus accumsan quam at eros malesuada, id luctus lectus efficitur. Nulla
-sit amet arcu mi. Duis quis mauris malesuada, posuere orci et, pulvinar nisl. Nam malesuada
-vehicula sapien vitae sagittis.
+In Ninis Van S***** we trust.
+"Un escalier de fer, un couloir étroit et obscur...au fond de ce couloir une porte entr'ouverte, d'où nous parviennent les accords d'une musique, qui en ce lieu paraît irréelle..."
+"Won't you dance with me...? In my world...of fantasy..."
+Les vrais savent.
+Parce qu'ils écoutent et lisent entre les lignes.
+Ici tout a un sens et rien n'est laissé au hasard. Significations et sens-cachés à chaque écrit, chaque illustrations, chaque musique.
+Je ne fais plus dans la contrefaçon, les faux déguisés en vrais ça va j'ai donné.
+Vive les prout à outrance.
 `
 
 // Your social usernames, empty strings won't be used.
 // For sake of the live demo, I'm using `username/repo` for github,
 // but you can replace with just your username.
-export const github = 'mattjennings/sveltekit-blog-template'
+export const github = 'francoisDF/anais-skyblog'
 export const twitter = ''
 export const linkedin = ''
 export const instagram = ''
